@@ -10,6 +10,12 @@
 
 ### Entrega
 
+#### Vídeo
+
+&nbsp;&nbsp;&nbsp;&nbsp;O vídeo disponível no [link](https://drive.google.com/file/d/1tmRRC9bx07AG-woSPUYFrjVOcpy2JSel/view?usp=sharing) contém a demonstração do funcionamento do somador e, em seguida, uma explicação de como ele foi elaborado.
+
+#### Arquivos
+
 &nbsp;&nbsp;&nbsp;&nbsp;Primeiramente, foi desenvolvido o circuito de um somador de 1 bit, disponível no arquivo [somador_completo.dig](./circuitos/somador_completo.dig), conforme o que pode ser visto na Figura 1 abaixo.
 
 <div align="center">
@@ -27,7 +33,3 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Na Figura 2, faz-se visível também a colocação dos displays para facilitar a leitura dos valores de entrada e de saída. Além disso, há um LED que indica, quando aceso, que houve overflow.
-
-#### Vídeo
-
-&nbsp;&nbsp;&nbsp;&nbsp;O vídeo disponível no [link](https://drive.google.com/file/d/1tmRRC9bx07AG-woSPUYFrjVOcpy2JSel/view?usp=sharing) contém a demonstração do funcionamento do somador e, em seguida, uma explicação de como ele foi elaborado.
